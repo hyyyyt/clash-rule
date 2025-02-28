@@ -12,7 +12,6 @@ DOMAIN-SUFFIX,996dm.com
 DOMAIN-SUFFIX,zimuku.org
 DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamserver.net
-DOMAIN-SUFFIX,cn.download.nvidia.com
 
 # steam下载
 IP-CIDR,103.10.124.0/24,no-resolve
