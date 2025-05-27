@@ -1,0 +1,5 @@
+#adobe正版验证
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,adobestats.io
