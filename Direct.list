@@ -3,7 +3,6 @@
 # 域名关键字匹配
 DOMAIN-KEYWORD,ddys
 DOMAIN-KEYWORD,dogfight360
-DOMAIN-KEYWORD,epicgames-download
 DOMAIN-KEYWORD,m-team
 
 # 域名后缀匹配
@@ -14,7 +13,23 @@ DOMAIN-SUFFIX,zimuku.org
 DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamserver.net
 
-# steam下载
+# 游戏下载
+DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
+DOMAIN,assets1.xboxlive.cn
+DOMAIN,assets2.xboxlive.cn
+DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
+DOMAIN,dl.steam.clngaa.com
+DOMAIN,dl.steam.ksyna.com
+DOMAIN,st.dl.eccdnx.com
+DOMAIN,st.dl.bscstorage.net
+DOMAIN,trts.baishancdnx.cn
+DOMAIN,st-bak.viv.wanwang.space
+DOMAIN,cdn-ali.content.steamchina.com
+DOMAIN,xz.pphimalayanrt.com
+DOMAIN,lv.queniujq.cn
+DOMAIN,alibaba.cdn.steampipe.steamcontent.com
+DOMAIN,cdn-ws.content.steamchina.com
+DOMAIN,cdn-qc.content.steamchina.com
 IP-CIDR,103.10.124.0/24,no-resolve
 IP-CIDR,103.10.125.0/24,no-resolve
 IP-CIDR,103.28.54.0/23,no-resolve
