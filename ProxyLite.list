@@ -29,6 +29,6 @@ DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,fsm.name
 DOMAIN-SUFFIX,creeperhost.net
+DOMAIN-SUFFIX,immortalwrt.org
 
 #完整匹配
-DOMAIN,downloads.immortalwrt.org
