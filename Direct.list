@@ -12,6 +12,14 @@ DOMAIN-SUFFIX,996dm.com
 DOMAIN-SUFFIX,zimuku.org
 DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,fh6.forzamotorsport.net
+DOMAIN-SUFFIX,forzamotorsport.net
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,xboxservices.com
+DOMAIN-SUFFIX,playfabapi.com
+DOMAIN-SUFFIX,cloudapp.azure.com
+DOMAIN-SUFFIX,akamaitechnologies.com
+DOMAIN-SUFFIX,gamepass.com
 
 # 游戏下载
 DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
