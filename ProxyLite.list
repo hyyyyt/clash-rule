@@ -19,7 +19,8 @@ DOMAIN-KEYWORD,18comic
 DOMAIN-KEYWORD,dockerhub
 DOMAIN-KEYWORD,timeweb
 DOMAIN-KEYWORD,gamebanana
-DOMAIN-KEYWORD,1psim.com
+DOMAIN-KEYWORD,1psim
+DOMAIN-KEYWORD,t-mobile
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,ambr.top
@@ -34,5 +35,6 @@ DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,gpumagick.com
 DOMAIN-SUFFIX,awesome-dsh-plugin.com
 DOMAIN-SUFFIX,openmili.com
+DOMAIN-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 
 #完整匹配
