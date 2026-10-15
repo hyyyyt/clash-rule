@@ -17,24 +17,18 @@ DOMAIN-KEYWORD,gofile
 DOMAIN-KEYWORD,aisubs
 DOMAIN-KEYWORD,18comic
 DOMAIN-KEYWORD,dockerhub
-DOMAIN-KEYWORD,timeweb
 DOMAIN-KEYWORD,gamebanana
-DOMAIN-KEYWORD,1psim
-DOMAIN-KEYWORD,t-mobile
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,ambr.top
 DOMAIN-SUFFIX,hakush.in
 DOMAIN-SUFFIX,api-ipv4.ip.sb
 DOMAIN-SUFFIX,api.ipify.org
-DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,fsm.name
 DOMAIN-SUFFIX,creeperhost.net
 DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,gpumagick.com
 DOMAIN-SUFFIX,awesome-dsh-plugin.com
-DOMAIN-SUFFIX,openmili.com
-DOMAIN-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 
 #完整匹配
