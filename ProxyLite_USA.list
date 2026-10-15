@@ -1,0 +1,7 @@
+# 域名关键字匹配
+DOMAIN-KEYWORD,1psim
+DOMAIN-KEYWORD,t-mobile
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,openmili.com
+DOMAIN-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
